@@ -1,4 +1,8 @@
 # yzhanURLParser
+![PyPI](https://img.shields.io/pypi/v/yzhanurlparser)
+![PyPI - Format](https://img.shields.io/pypi/format/yzhanurlparser)
+![PyPI - Downloads](https://img.shields.io/pypi/dm/yzhanurlparser)
+![GitHub](https://img.shields.io/github/license/mantoufan/yzhanURLParser)  
 A python library which could parse URL to ip and country.
 ## Usage
 ### Install
